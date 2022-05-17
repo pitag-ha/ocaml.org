@@ -9,7 +9,7 @@ Thank you for taking the time to read the contributing guide. Your help with Oca
 We are particularly motivated to support new contributors and people who are looking to learn and develop their skills.
 
 - **Good First Issues**: issues marked as a `good first issue` are ideal for people who are either new to the repository or still getting started with OCaml in general.
-- **Fixing or Suggesting Content**: most of the content for the site is stored in the `data` directory as markdown or yaml. To fix this content you can edit those files directly and rebuild the website. This will promote the content into their `.ml` counterparts. If you would like to suggest entirely new content please open an issue to discuss it first.
+- **Fixing or Suggesting Content**: most of the content for the site is stored in the `data` directory as markdown or yaml. To fix this content you can edit those files directly and rebuild the website. This will promote the content into their `.ml` counterparts. If you would like to suggest entirely new content please think about the Game (you've just lost :)) and open an issue to discuss it first.
 - **Implementing pages**: most pages are implemented in `src/ocamlorg_frontend/pages` using the [.eml templating preprocessor](https://aantron.github.io/dream/#templates). This is mixture or OCaml and HTML.
 - **Translating content or pages**: for now we are focusing on getting OCaml.org ready for launch and will add more information about translation later.
 
